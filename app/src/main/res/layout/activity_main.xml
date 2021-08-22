@@ -23,6 +23,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:onClick="toastMe"
         android:id="@+id/toast_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -38,6 +39,7 @@
         app:layout_constraintVertical_bias="0.497" />
 
     <Button
+        android:onClick="countMe"
         android:id="@+id/count_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
