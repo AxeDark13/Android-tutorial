@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
     <string name="hello_world_text">0</string>
+    <string name="random_heading">Это случайное число между 0 и %1d</string>
 </resources>
